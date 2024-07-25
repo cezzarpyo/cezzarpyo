@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm a Beginner Developer 👉👈
 Currently Learning: JavaScript, PHP 🐘
 
 

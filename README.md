@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Beginner Developer 👉👈 , I'm currently studying: Javascript and PHP 🐘
+I'm a Beginner Developer 👉👈 , I'm currently studying: TypeScript ☕🟦 ,Dart 💠 and PHP 🐘
 
 
 # 💻 Tech Stack:
